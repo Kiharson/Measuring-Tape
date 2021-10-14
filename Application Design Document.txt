@@ -1,0 +1,13 @@
+Application Name and Platform - AR Measuring Tape for Android.
+
+Elevator Pitch (Description of Application ) - An Augmented Reality based android application used to measure the dimension of objects and distance between objects; developed using Google ARCore.
+
+Target Audience - The application is developed for anyone who can use android phones as the application provides a simple user interface. Yes, the application is successful in serving its target audience.
+
+XR Implementation - The application is an instance of AR and is handheld. The application while using the Google ARCore uses the phone's camera to give the real world scene and uses raytracing and raycasting to detect the information about real world objects. The applications detects the plane using phone's camera and objects or models are placed on the detected planes.
+
+Supporting Technologies - The application uses Phone's GPS, Google ARCore, Device Camera. The Phone's GPS is used to track the android device's location with respect to the surrounding world. The Google ARCore SDK provides the techniques required to deploy application for android devices. The Device Camera is the indispensable part that tracks real world appearing and provides plane for placing virtual object.
+
+Application Strength - The application can measure the dimension of objects as well as the distance between objects not only in 2-D ; but also in 3-D. 
+
+Areas of Improvement - I want the virtual object, that is placed to measure dimension and distance , should be placed in such a way that it can get exact values of dimensions and distances not only the approximate values. For this, the size of virtual objects should be scaled ( either up or down ) and I am working on it.
